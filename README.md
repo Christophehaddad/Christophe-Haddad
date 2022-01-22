@@ -1,6 +1,6 @@
 
   ### Hi there 👋
-  <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+  <img align="left" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <!--
 **christanium/ChrisTanium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
