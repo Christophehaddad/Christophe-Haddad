@@ -14,6 +14,8 @@
 - 👯 I’m looking to collaborate on every project I encounter.
 - 💬 Ask me about ...
 - 📫 Reach me at:
+![](https://komarev.com/ghpvc/?username=ChrisTanium)
+
 </p>
 
 <!--
