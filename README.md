@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on Neural Network code in Python to automate the segmentwation of Brain Cells, Neurons, and Axons automatically through an artificial intelligence algorithms to automate the process. 
 - 🌱 I’m currently learning Augmentation
 - 👯 I’m looking to collaborate on every project I encounter.
-- 💬 Ask me about ...
-- 📫 Reach me at:
+- 💬 Ask me anything!
+- 📫 Reach me at 
 
 -![](https://komarev.com/ghpvc/?username=ChrisTanium&color=blueviolet&style=flat-square&label=PROFILE+REACHED)
 
