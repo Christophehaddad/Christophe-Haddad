@@ -9,8 +9,8 @@
 <a href="https://www.instagram.com/christophe__haddad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
  
-- 🔭 I’m currently working on Neural Network code in Python to automate the segmentwation of Brain Cells, Neurons, and Axons automatically through an artificial intelligence algorithms to automate the process. 
-- 🌱 I’m currently learning Augmentation
+- 🔭 My current project is to automate the process of segmenting brain cells, neurons, and axons automatically using artificial intelligence algorithms to automate the process through code in Python. 
+- 🌱 Learning Augmentation
 - 👯 I’m looking to collaborate on every project I encounter.
 - 💬 Ask me anything!
 - 📫 Reach me at 
