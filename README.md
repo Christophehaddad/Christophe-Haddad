@@ -1,6 +1,6 @@
 
   ### Hello World :sunny:
-  [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+  
 
   <img align="right" alt="Coding" width="600" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
   
