@@ -8,12 +8,11 @@
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Chris_Haddad_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/christophehaddad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/chris_hadad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/Chris_Hadad_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/christophehaddad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="30" /></a>
+<a href="https://www.instagram.com/chris__hadad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="30" /></a>
 
-About
-I’m an exceptionally detailed, focused professional with a unique ability to successfully manage projects, and be a strong leader while staying motivated with a strong sense of dedication and support to the mission
+Little bit about me is I’m an exceptionally detailed, focused professional with a unique ability to successfully manage projects, and be a strong leader while staying motivated with a strong sense of dedication and support to the mission
 
 I have strong goal-oriented vision for success and well-developed communication skills to work effectively with team members.
 
