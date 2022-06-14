@@ -12,12 +12,19 @@
 <a href="https://www.linkedin.com/in/christophehaddad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chris_hadad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
- 
-- 🔭 My current project is to automate the process of segmenting brain cells, neurons, and axons automatically using artificial intelligence algorithms to automate the process through code in Python. 
-- 🌱 Learning Augmentation
-- 👯 I’m looking to collaborate on every project I encounter.
-- 💬 Ask me anything!
-- 📫 Reach me at 
+About
+I’m an exceptionally detailed, focused professional with a unique ability to successfully manage projects, and be a strong leader while staying motivated with a strong sense of dedication and support to the mission
+
+I have strong goal-oriented vision for success and well-developed communication skills to work effectively with team members.
+
+My duties include analyzing information, reporting research results, and understanding technical issues, as well as promoting process improvement, developing standards, managing processes, developing manufacturing methods, and encouraging innovation.
+
+In my position at the Johns Hopkins Applied Physics Laboratory, I'm researching the use of Neural Networks to provide predictive and diagnostic data about the health of the brain, using an artificial intelligence algorithm and precise parameters. 
+
+In addition to having 5 years of experience managing a quality management system, I also have the highest certification QMS Lead Auditor for ISO9001 & IATF16949.49.
+
+Competencies: data science, machine learning, Python/Java/R, Quality Control
+
 
 -![](https://komarev.com/ghpvc/?username=ChrisTanium&color=blueviolet&style=flat-square&label=PROFILE+REACHED)
 
