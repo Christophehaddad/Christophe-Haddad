@@ -20,7 +20,7 @@ My duties include analyzing information, reporting research results, and underst
 
 In my position at the Johns Hopkins Applied Physics Laboratory, I'm researching the use of Neural Networks to provide predictive and diagnostic data about the health of the brain, using an artificial intelligence algorithm and precise parameters. 
 
-In addition to having 5 years of experience managing a quality management system, I also have the highest certification QMS Lead Auditor for ISO9001 & IATF16949.49.
+In addition to having 5 years of experience managing a quality management system, I also have the highest certification QMS Lead Auditor for ISO9001 & IATF16949.
 
 Competencies: data science, machine learning, Python/Java/R, Quality Control
 
